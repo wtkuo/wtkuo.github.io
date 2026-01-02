@@ -11,3 +11,6 @@ minimal_mistakes_skin: "default" # Options: "air", "aqua", "contrast", "dark", "
 # Build Settings
 include:
   - _pages
+
+plugins:
+  - jekyll-include-cache
