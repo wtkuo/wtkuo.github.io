@@ -1,0 +1,13 @@
+# Site Settings
+title: "My Learning Garden"
+description: "A place for my notes and project results."
+url: "https://your-username.github.io" # Replace with your GitHub URL for now
+baseurl: "" # Leave this empty
+
+# Theme Settings
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "default" # Options: "air", "aqua", "contrast", "dark", "dirt", "neon", "plum", "sunrise"
+
+# Build Settings
+include:
+  - _pages
